@@ -11,7 +11,9 @@
   ### Tech articles
     
    - [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html)
-
+   - [JavaScript for Beginners: Async](https://rowanmanning.com/posts/javascript-for-beginners-async/)
+   
+   
 ## Stuff releated to React framework
 
 ### Books
