@@ -29,7 +29,9 @@
 ### Books
 
 - [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- [Test Driven Development: By Example 1st Edition](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 ### Tech articles
 
 - [What Is a Design Pattern?](https://dzone.com/articles/what-is-design-pattern)
+- [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html)
