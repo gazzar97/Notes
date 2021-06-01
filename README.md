@@ -12,6 +12,7 @@
     
    - [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html)
    - [JavaScript for Beginners: Async](https://rowanmanning.com/posts/javascript-for-beginners-async/)
+   - [Understanding the “this” Keyword in JavaScript](https://betterprogramming.pub/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
    
    
 ## Stuff releated to React framework
