@@ -2,7 +2,7 @@
 
 
 
-## Stuff releated to JavaScript itself
+## About JavaScript 
 
   ### Books
   
@@ -17,7 +17,7 @@
    - [Prototype in JavaScript](https://www.tutorialsteacher.com/javascript/prototype-in-javascript)
    
    
-## Stuff releated to React framework
+## About React framework
 
 ### Books
 
@@ -27,7 +27,7 @@
 
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
-## Stuff a little bit general like design patterns 
+## General Stuff
 
 ### Books
 
