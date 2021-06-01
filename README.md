@@ -10,7 +10,8 @@
   
   ### Tech articles
     
-   - [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html)
+   - [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html)<img align="left" width="25"  height="25" src="https://www.ms-center.net/wp-content/uploads/2020/11/check-circle-correct-mark-success-tick-yes-icon-correct-symbol-png-395_512.png" alt="correct symbol">
+
    - [JavaScript for Beginners: Async](https://rowanmanning.com/posts/javascript-for-beginners-async/)
    - [Understanding the “this” Keyword in JavaScript](https://betterprogramming.pub/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
    - [Prototype in JavaScript](https://www.tutorialsteacher.com/javascript/prototype-in-javascript)
