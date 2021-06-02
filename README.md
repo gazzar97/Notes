@@ -40,5 +40,5 @@
 - [What Is a Design Pattern?](https://dzone.com/articles/what-is-design-pattern)
 - [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html)
 - [The Path to Becomming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
-- [What Is AJAX?
-](https://skillcrush.com/blog/what-is-ajax/)
+- [What Is AJAX?](https://skillcrush.com/blog/what-is-ajax/)
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
