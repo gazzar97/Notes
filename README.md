@@ -34,6 +34,7 @@
 - [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - [Test Driven Development: By Example 1st Edition](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - [AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis](https://www.amazon.com/AntiPatterns-William-J-Brown/dp/0471197130)
+- [Designing-Data-Intensive-Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 ### Tech articles
 
