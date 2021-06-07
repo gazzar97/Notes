@@ -43,4 +43,4 @@
 - [What Is AJAX?](https://skillcrush.com/blog/what-is-ajax/)
 - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [What is a Multi-branch Pipeline?](https://devopscube.com/jenkins-multibranch-pipeline-tutorial/)
-- [Thinking about react, atomically](https://bradfrost.com/blog/link/thinking-about-react-atomically/)
+- [Structuring your React Application — Atomic Design Principles](https://andela.com/insights/structuring-your-react-application-atomic-design-principles/)
